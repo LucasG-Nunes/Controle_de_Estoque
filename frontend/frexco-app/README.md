@@ -1,4 +1,4 @@
-# Inventory Control Project
+## 📁 Inventory Control Project
 
 <h3>Project to control stock being able to
 consult all stocks registered in the system, create, edit and delete any product.</h3>
