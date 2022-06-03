@@ -31,7 +31,7 @@ consult all stocks registered in the system, create, edit and delete any product
   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png">
 </div>
 
-## 🛠️ Abrir e rodar o projeto
+## 🛠️ Open and run the project
 <p>Once you open the project open the terminal and run the following command to start and download all dependencies</p>
 <ul>
   <li>npm start</li>
