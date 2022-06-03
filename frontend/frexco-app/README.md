@@ -30,3 +30,8 @@ consult all stocks registered in the system, create, edit and delete any product
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png">
   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png">
 </div>
+
+## 🛠️ Abrir e rodar o projeto
+<ul>
+  <li>teste</li
+ </ul>
