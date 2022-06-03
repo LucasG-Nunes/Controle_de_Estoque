@@ -11,9 +11,10 @@ consult all stocks registered in the system, create, edit and delete any product
 - `Funcionalidade 3`: descrição da funcionalidade 3
 
 ## ✔️ Techniques and technologies used
-
-
-
+<p align="center">
+ <h2>Front End:</h2>
+ <h2>Back End:</h2>
+</p>
 ## Available Scripts
 
 In the project directory, you can run:
