@@ -12,10 +12,8 @@ consult all stocks registered in the system, create, edit and delete any product
 
 ## ✔️ Techniques and technologies used
 
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- `Funcionalidade 2`: descrição da funcionalidade 2
-- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
+- `Front end`: descrição da funcionalidade 1
+
 
   <div style="display: inline_block"><br>
 
@@ -24,9 +22,11 @@ consult all stocks registered in the system, create, edit and delete any product
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+- `Back end`: descrição da funcionalidade 1
+
  
    <div style="display: inline_block"><br>
-   - `Back End`
+
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
