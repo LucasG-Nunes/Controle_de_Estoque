@@ -12,7 +12,7 @@ consult all stocks registered in the system, create, edit and delete any product
 
 ## ✔️ Techniques and technologies used
 
-- `Front end`: descrição da funcionalidade 1
+- `Front end`: 
 
 
   <div style="display: inline_block"><br>
@@ -21,7 +21,7 @@ consult all stocks registered in the system, create, edit and delete any product
   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-- `Back end `: descrição da funcionalidade 1
+- `Back end `:
 
  
    <div style="display: inline_block"><br>
