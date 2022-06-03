@@ -16,9 +16,9 @@ consult all stocks registered in the system, create, edit and delete any product
 
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://v4.material-ui.com/static/logo.png">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://v4.material-ui.com/static/logo.png">
+  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 - `Back end `: descrição da funcionalidade 1
@@ -26,9 +26,9 @@ consult all stocks registered in the system, create, edit and delete any product
  
    <div style="display: inline_block"><br>
 
-    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png">
+    <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png">
+  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png">
 </div>
 
 ## Available Scripts
