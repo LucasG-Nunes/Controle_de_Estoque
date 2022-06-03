@@ -10,7 +10,7 @@ consult all stocks registered in the system, create, edit and delete any product
 - `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
 - `Funcionalidade 3`: descrição da funcionalidade 3
 
-✔️ Técnicas e tecnologias utilizadas
+## ✔️ Técnicas e tecnologias utilizadas
 
 
 
