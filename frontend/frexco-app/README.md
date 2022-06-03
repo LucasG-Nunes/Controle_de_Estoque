@@ -17,7 +17,7 @@ consult all stocks registered in the system, create, edit and delete any product
 
 ![icons8-material-ui-48](https://user-images.githubusercontent.com/84019679/171875727-0f4c4dc9-4d60-4b41-9e90-c8d1040c77cb.png)
 ![icons8-reagir-16](https://user-images.githubusercontent.com/84019679/171875741-f30fbe4b-de6f-4e8e-b32b-47777ffe3d30.png)
-![icons8-javascript-48](https://user-images.githubusercontent.  com/84019679/171875776-260952ca-06f4-4658-b6a0-a74338deeefc.png)
+![icons8-javascript-48](https://user-images.githubusercontent.com/84019679/171875776-260952ca-06f4-4658-b6a0-a74338deeefc.png)
 
  
    <h2>Back End:</h2>
