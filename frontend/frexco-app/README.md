@@ -13,14 +13,6 @@ consult all stocks registered in the system, create, edit and delete any product
 ## ✔️ Techniques and technologies used
 
 
-![icons8-javascript-48](https://user-images.githubusercontent.com/84019679/171875776-260952ca-06f4-4658-b6a0-a74338deeefc.png)
-![baixados](https://user-images.githubusercontent.com/84019679/171875825-40f36a16-b54b-4390-ab11-0b6559e1df9a.png)
-![icons8-postgres-24](https://user-images.githubusercontent.com/84019679/171875842-a5820af5-9b48-4f69-8346-d17717bc7722.png)
-![icons8-node-js-48](https://user-images.githubusercontent.com/84019679/171875862-a713f823-c3ce-4ee4-b727-4cfe24ebebae.png)
-![icons8-docker-48](https://user-images.githubusercontent.com/84019679/171875891-2b865176-3181-4173-970c-0feeca387a9e.png)
-
-
-
    <h2>Front End:</h2>
 
 ![icons8-material-ui-48](https://user-images.githubusercontent.com/84019679/171875727-0f4c4dc9-4d60-4b41-9e90-c8d1040c77cb.png)
