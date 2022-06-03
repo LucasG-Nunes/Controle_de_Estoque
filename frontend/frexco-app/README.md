@@ -11,8 +11,8 @@ consult all stocks registered in the system, create, edit and delete any product
 - `Funcionalidade 3`: descrição da funcionalidade 3
 
 ## ✔️ Techniques and technologies used
-![icons8-material-ui-48](https://user-images.githubusercontent.com/84019679/171875727-0f4c4dc9-4d60-4b41-9e90-c8d1040c77cb.png)
-![icons8-reagir-16](https://user-images.githubusercontent.com/84019679/171875741-f30fbe4b-de6f-4e8e-b32b-47777ffe3d30.png)
+
+
 ![icons8-javascript-48](https://user-images.githubusercontent.com/84019679/171875776-260952ca-06f4-4658-b6a0-a74338deeefc.png)
 ![baixados](https://user-images.githubusercontent.com/84019679/171875825-40f36a16-b54b-4390-ab11-0b6559e1df9a.png)
 ![icons8-postgres-24](https://user-images.githubusercontent.com/84019679/171875842-a5820af5-9b48-4f69-8346-d17717bc7722.png)
@@ -20,10 +20,16 @@ consult all stocks registered in the system, create, edit and delete any product
 ![icons8-docker-48](https://user-images.githubusercontent.com/84019679/171875891-2b865176-3181-4173-970c-0feeca387a9e.png)
 
 
-  <p align="center">
+
    <h2>Front End:</h2>
+   <div> 
+  <img src="![icons8-material-ui-48](https://user-images.githubusercontent.com/84019679/171875727-0f4c4dc9-4d60-4b41-9e90-c8d1040c77cb.png)"></img>
+  <img src="![icons8-javascript-48](https://user-images.githubusercontent.com/84019679/171875776-260952ca-06f4-4658-b6a0-a74338deeefc.png)"></img>
+  <img src="![icons8-reagir-16](https://user-images.githubusercontent.com/84019679/171875741-f30fbe4b-de6f-4e8e-b32b-47777ffe3d30.png)"></img>
+  </div>
+ 
    <h2>Back End:</h2>
-  </p>
+
 ## Available Scripts
 
 In the project directory, you can run:
