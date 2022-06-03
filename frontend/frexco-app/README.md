@@ -13,7 +13,11 @@ consult all stocks registered in the system, create, edit and delete any product
 ## ✔️ Techniques and technologies used
 
   <div style="display: inline_block"><br>
-  - `Front end `
+- `Funcionalidade 1`: descrição da funcionalidade 1
+- `Funcionalidade 2`: descrição da funcionalidade 2
+- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
+- `Funcionalidade 3`: descrição da funcionalidade 3
+
 
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
