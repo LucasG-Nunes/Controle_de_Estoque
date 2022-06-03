@@ -45,3 +45,6 @@ consult all stocks registered in the system, create, edit and delete any product
   <li>npm install</li>
   <li>npx prisma studio</li> 
  </ul>
+
+<h4>Link no linkedin para visualização do projeto em funcionamento</h4>
+<p>https://www.linkedin.com/feed/update/urn:li:activity:6938544815240323072/</p>
