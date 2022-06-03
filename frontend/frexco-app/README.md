@@ -7,8 +7,8 @@ consult all stocks registered in the system, create, edit and delete any product
 
 - `Funcionalidade 1`: Ter um espaço onde será feito o login e apresentado os estoques atuais.
 - `Funcionalidade 2`: Efetuar adições nos estoques.
-- `Funcionalidade 2a`: Editar os estoques.
-- `Funcionalidade 3`: Deletar produtos do estoque.
+- `Funcionalidade 3`: Editar os estoques.
+- `Funcionalidade 4`: Deletar produtos do estoque.
 
 ## ✔️ Techniques and technologies used
 
