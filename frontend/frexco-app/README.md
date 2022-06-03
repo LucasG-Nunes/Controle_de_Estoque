@@ -34,8 +34,14 @@ consult all stocks registered in the system, create, edit and delete any product
 </div>
 
 ## 🛠️ Open and run the project
-<p>Once you open the project open the terminal and run the following command to start and download all dependencies</p>
+<p>Once you open the project open the terminal and run the following command to start and download all dependencies </p>
 <ul>
   <li>npm start</li>
   <li>npm install</li> 
+ </ul>
+ <p>And for the back end remember to install docker and use the following commands to start, install dependencies and check models:</p>
+<ul>
+  <li>npm run dev</li>
+  <li>npm install</li>
+  <li>npx prisma studio/li> 
  </ul>
