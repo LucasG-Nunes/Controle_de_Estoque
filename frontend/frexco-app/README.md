@@ -2,6 +2,7 @@
 
 <h3>Project to control stock being able to
 consult all stocks registered in the system, create, edit and delete any product.</h3>
+<p>I used it for the front end React, Material UI and JavaScript. Using axios to connect to my backend. And for the back end I used Node.js with express to create the routes and server and I also used docker with postgres for the database.</p>
 
 ## :hammer: Project features
 
