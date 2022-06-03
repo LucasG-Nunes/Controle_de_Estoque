@@ -16,7 +16,8 @@ consult all stocks registered in the system, create, edit and delete any product
 
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="![icons8-reagir](https://user-images.githubusercontent.com/84019679/171879236-1deb39c1-3210-4593-b213-f5a53f6a2f16.gif)
+">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
