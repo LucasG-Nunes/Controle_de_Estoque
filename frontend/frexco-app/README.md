@@ -32,8 +32,8 @@ consult all stocks registered in the system, create, edit and delete any product
 </div>
 
 ## 🛠️ Abrir e rodar o projeto
+<p>Once you open the project open the terminal and run the following command to start and download all dependencies</p>
 <ul>
-  <li>Assim que abrir o projeto abra o terminal e rode o seguinte comando:</li>
   <li>npm start</li>
-    
+  <li>npm install</li> 
  </ul>
