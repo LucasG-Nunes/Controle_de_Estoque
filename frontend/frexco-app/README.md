@@ -15,9 +15,9 @@ consult all stocks registered in the system, create, edit and delete any product
 
    <h2>Front End:</h2>
 
-![icons8-material-ui-48](https://user-images.githubusercontent.com/84019679/171875727-0f4c4dc9-4d60-4b41-9e90-c8d1040c77cb.png)
-<img height="50" width="50" src="![icons8-reagir](https://user-images.githubusercontent.com/84019679/171879236-1deb39c1-3210-4593-b213-f5a53f6a2f16.gif)">
-![icons8-javascript-48](https://user-images.githubusercontent.com/84019679/171875776-260952ca-06f4-4658-b6a0-a74338deeefc.png)
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
  
    <h2>Back End:</h2>
