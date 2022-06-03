@@ -39,9 +39,9 @@ consult all stocks registered in the system, create, edit and delete any product
   <li>npm start</li>
   <li>npm install</li> 
  </ul>
- <p>And for the back end remember to install docker and use the following commands to start, install dependencies and check models:</p>
+ <p>For the back end remember to install docker and use the following commands to start, install dependencies and check models:</p>
 <ul>
   <li>npm run dev</li>
   <li>npm install</li>
-  <li>npx prisma studio/li> 
+  <li>npx prisma studio</li> 
  </ul>
