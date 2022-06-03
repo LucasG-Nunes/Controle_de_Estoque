@@ -1,6 +1,7 @@
 # Inventory Control Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3>Project to control stock being able to
+consult all stocks registered in the system, create, edit and delete any product.</h3>
 
 ## Available Scripts
 
